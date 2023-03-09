@@ -1,1 +1,1 @@
-0x00. Shell, basics
+This is my readme file on shell permssion
